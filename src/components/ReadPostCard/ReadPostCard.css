@@ -1,0 +1,29 @@
+.ReadPostCard{
+    font-size: 24px;
+    width: 1200px;
+    margin: 2px auto;
+    
+    
+}
+.image{
+    width: 500px;
+    display: inline-block;
+}
+.containt{
+    /* width: 500px; */
+    display: inline-block;
+    font-size: 20px ;
+}
+.title{
+    text-align: center;
+    color: rgb(0, 106, 255);
+    border-bottom: 2px solid rgb(0, 106, 255);
+}
+
+.img-info{
+    display: flex;
+    justify-content: space-around;
+}
+.img-info p{
+    width: 600px;
+}

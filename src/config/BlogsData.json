@@ -1,28 +1,47 @@
 [
     {
         "id" : "1",
-        "title" : "The First Bloge",
-        "description" : "this is My First Blog",
-        "content" : "I fill gode to creat my First Blog . For making thios blog I Am Use HTML CSS JavaScript and React.7 I have found some articles saying that FF's JavaScript engine par .",
-        "author" : "Kashish",
-        "publishDate" : "03-10-2023"
+        "image" : "https://th.bing.com/th/id/OIP.uvPRp0TOMnRlSk_Vzp3AygHaDt?w=317&h=175&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "title" : "Bangalore",
+        "description" : "Namma Bengaluru, one of the best city in India in terms of weather, economic growth day by day, one place can see the indian language people the city, citizen culture, garden and park, IT hub, etc . The best city in the Country today. Nice place to live. Love it. No doubt, Bangalore is the top city. Yes it is beautiful also like Cochin.",
+        "content" : "The best city in the Country today. Nice place to live. Love it. No doubt, Bangalore is the top city. Yes it is beautiful also like Cochin. The best weather, best food, talented people, IT companies, Music, the list goes on & on... couldn't be any better love Bangalore & a proud Kannadiga.Absolutely enjoying the Bangalore climate, very Hi-tech totally Good City Live and Enjoy...",
+        "extraInfo" : "The best weather, best food, talented people, IT companies, Music, the list goes on & on... couldn't be any better love Bangalore & a proud Kannadiga.The best city in the Country today. Nice place to live. Love it. No doubt, Bangalore is the top city. Yes it is beautiful also like Cochin"
     },
 
     {
         "id" :"2",
-        "title" : "JavaScript engine",
-        "description" : "Chrome V8 is a JavaScript engine",
-        "content" : "Chrome V8 is a JavaScript engine, which means that it executes JavaScript code. Originally, JavaScript was written to be executed by web browsers. Chrome V8, or just V8, can execute JavaScript code either within or outside of a browser, which makes server-side scripting possible.",
-        "author" : "Kashish",
-        "publishDate" : "03-10-2023"
+        "image" : "https://th.bing.com/th/id/OIP.ZdJWwV5HR_FE9l-M3-g3ZAHaDt?w=295&h=175&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "title" : "Mumbai",
+        "description" : "Mumbai is the capital city of the Indian state of Maharashtra. Mumbai lies on the Konkan coast on the west coast of India and has a deep natural harbour. In 2008, Mumbai was named an alpha world city. It has the highest number of millionaires and billionaires among all cities in India. Mumbai is home to three UNESCO World Heritage Sites: the Elephanta Caves, Chhatrapati Shivaji Maharaj Terminus, and the city's distinctive ensemble of Victorian and Art Deco buildings",
+        "content" : "India's financial, commercial, entertainment, skyscrapers capital, Indias largest metropolis and cosmopolitan city and world's alpha city is enough to describe Mumbai. Having slum is indication of how eager and strong ambitious people are living in Mumbai... If seen from other point of view.. They are ready to live in slums but Don't want to leave Mumbai..Just crore times better than Bangalore... How can this happen!  I am not an Indian I live in and from USA I have been to Bangalore, Mumbai, New Delhi and Puri but according to me by culture, civilization Mumbai is the best.",
+        "extraInfo" : "Lol, insecure bangaloreans made their way into this page to vote for their city. That tiny unplanned dump of a city with all the dogmatic and useless people, whose only USP is being a city of software engineers for outsourced American jobs, can never compete with India's commercial, financial, entertainment, fashion and billionaire capital"
     },
     
     {
         "id" : "3",
-        "title" : "Firefox use the V8 ? ",
-        "description" : "Firefox does not use the V8 engine",
-        "content" : "Firefox does not use the V8 engine. V8 is the JS Engine of Google Chrome1. The JS Engine of Firefox is SpiderMonkey1. The only V8 source code that Firefox uses is things that were factored out into separate libraries",
-        "author" : "Kashish",
-        "publishDate" : "03-10-2023"
+        "image" : "https://th.bing.com/th/id/OIP.Yad84GIdcxx568NUXGARqQHaEw?w=271&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "title" : "New Delhi",
+        "description" : "New Delhi is the capital and seat of government of India. It is also a municipality and district in Delhi and serves as the seat of Government of Delhi. The best city in India without any doubt. Is rapidly becoming the first Indian world city. Beautiful road infrastructure, great public transport, a model merto rail which is being copied by other cities in India and even elsewhere in the region. Home to huge parks and well maintained monuments. Truly the most livable city in India today",
+        "content" : "The best city in India without any doubt. Is rapidly becoming the first Indian world city. Beautiful road infrastructure, great public transport, a model merto rail which is being copied by other cities in India and even elsewhere in the region. Home to huge parks and well maintained monuments. Truly the most livable city in India today.",
+        "extraInfo" : "Delhi, the capital of India has a rich history and culture. Visitors are always awed by the amazing juxtaposition of modernity and rich Indian culture of Delhi.It has remnants of mosques, forts, gardens of Mughal era. And the best places where you will find the multicultural flavor of Delhi are the markets.Over the years, influx of migrants is on the rise in the capital, we give you ten reasons why hoards of migrants want to live in Delhi"
+
+    },
+    {
+        "id" : "4",
+        "image" : "https://th.bing.com/th/id/OIP.UHbsucfqmEkiOM0IE5_ZQwHaFj?w=233&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "title" : "Kolkata ",
+        "description" : "Kolkata, situated in eastern India, is known as the 'City of Joy' and is a cultural and intellectual center. The Victoria Memorial showcases colonial-era architecture, while the Howrah Bridge is a iconic symbol. The city's rich literary heritage includes famous poets and authors. Kolkata's Durga Puja festival is a vibrant celebration of art and culture, attracting visitors from around the world.",
+        "content" : "Kolkata has a class of its own, and not really for commercial or business activity. This is possibly the only city in the country where people are taken as human beings, and not judged in terms of money one has in one's bank account. And being emotional, these kolkata people will reject or accept you by the way you conduct yourself, not by your so-called status.",
+        "extraInfo" : "You need a little time to understand the mood and the internal life-flow of this city. It is a city of emotion, culture, poetry and friendship. Once you understand that, it opens its door to the one who is willing to share and love. I donot think any other city in India is so open to all irrespective of language, caste and creed. It is the best place to live without fear."
+    },
+    {
+        "id" : "5",
+        "image" : "https://th.bing.com/th/id/OIP.ujaNvPOyhNDqYyNcjhy3HAHaE7?w=307&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "title" : "Jaipur ",
+        "description" : "Kolkata, situated in eastern India, is known as the 'City of Joy' and is a cultural and intellectual center. The Victoria Memorial showcases colonial-era architecture, while the Howrah Bridge is a iconic symbol. The city's rich literary heritage includes famous poets and authors. Kolkata's Durga Puja festival is a vibrant celebration of art and culture, attracting visitors from around the world.",
+        "content" : "Kolkata has a class of its own, and not really for commercial or business activity. This is possibly the only city in the country where people are taken as human beings, and not judged in terms of money one has in one's bank account. And being emotional, these kolkata people will reject or accept you by the way you conduct yourself, not by your so-called status.",
+        "extraInfo" : "Jaipur is famous for its location. What a beautiful and well planned city!. Here infrastructure is also developed. It is 24th rapidly increasing city of world. So I hope that in next 5 years jaipur will be at 1st rank in India. Jaipur is the perfect city of India. One of the most beautiful & gorgeous cities of India."
+        
     }
+
 ]

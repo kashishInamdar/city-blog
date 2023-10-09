@@ -1,6 +1,35 @@
 .Post-card{
-    width: auto;
-    margin: 20px 40px;
-    border: 1px solid gray;
+    
+    margin: 10px 40px;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    border: 1px solid gray; 
+    display: flex; 
+    justify-content: space-between;
+    
+}
+.city-img{
+    width: 300px;
+    margin: 5px 5px;
+
+}
+
+.city-info{
+    margin-right: 100px;
+    margin-left: 20px;
+}
+.title{
+    color: rgb(6, 83, 248);
+    text-decoration: none;
+    border-bottom: white;
+}
+.link{
+    text-decoration: none;
+}
+.button{
+    background-color:  rgb(6, 83, 248);
+    border: none;
+    padding: 10px;
+    border-radius: 2px;
     
 }
